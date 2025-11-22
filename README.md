@@ -153,7 +153,7 @@ This project serves as a strong foundation for deep learning-based content recom
 
 ## 🧑‍💻 Author
 
-**TAnna Naga Sri Durga Mallesh**  
+**Uppuluri Dayakar**  
 B.Tech – Computer Science and Engineering  
 Sir C R Reddy College of Engineering, Eluru
 
