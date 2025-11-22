@@ -1,4 +1,4 @@
-Recommend movies visually by genre using deep learning and image classification.
+#Recommend movies visually by genre using deep learning and image classification.
 
 Python TensorFlow Keras Accuracy
 
@@ -99,7 +99,7 @@ Optimize the system for use on mobile devices or as a lightweight PWA (Progressi
 Extend beyond genre classification by integrating metadata (e.g., IMDb ratings, cast, plot) for smarter hybrid recommendations. " >> README.md
 
 🧑‍💻 Author
-TAnna Naga Sri Durga Mallesh
+Uppuluri Dayakar
 B.Tech – Computer Science and Engineering
 Sir C R Reddy College of Engineering, Eluru
 
