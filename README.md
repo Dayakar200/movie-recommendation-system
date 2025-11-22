@@ -1,4 +1,3 @@
- Genre-Based Movie Recommendation Using Deep Learning
 Recommend movies visually by genre using deep learning and image classification.
 
 Python TensorFlow Keras Accuracy
